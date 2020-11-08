@@ -1,5 +1,5 @@
 ---
-title: my learning journey 02
+title: "my learning journey 02"
 date: 2020-11-08
 ---
 
